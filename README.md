@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sai Sri Harsha 👋
 
-I am a **Junior .NET Developer** with a passion for software development and cloud technologies. I have a solid foundation in **.NET Core**, **Azure**, and **AWS**, and I'm continuously improving my skills through hands-on projects and ongoing learning. I hold a **Master's in Computer Science** from the University of New Haven and a **B-Tech in Computer Science**.
+I am a **Junior .NET Developer** passionate about software development and cloud technologies. I have a solid foundation in **.NET Core**, **Azure**, and **AWS**, and I'm continuously improving my skills through hands-on projects and ongoing learning. I hold a **Master's in Computer Science** from the University of New Haven and a **B-Tech in Computer Science**.
 
 ## 🚀 Skills & Technologies
 
@@ -16,7 +16,7 @@ I am a **Junior .NET Developer** with a passion for software development and clo
 
 - **Master’s in Computer Science** | University of New Haven
   - Relevant Coursework: Object-Oriented Programming, Cloud Computing, Software Engineering, Database Management
-- **B-Tech in Computer Science** | [Your College Name]
+- **B-Tech in Computer Science** | [GITAM University]
   - Relevant Coursework: Data Structures, Algorithms, Web Development (PHP, HTML, CSS), Operating Systems, Java Programming
 
 ## 💡 Currently Learning
@@ -30,8 +30,7 @@ I am a **Junior .NET Developer** with a passion for software development and clo
 
 ## 📫 How to Reach Me
 
-- Email: [YourEmail@example.com]
-- LinkedIn: [YourLinkedInProfile]
-- Twitter: [YourTwitterHandle]
+- 
+- LinkedIn: https://www.linkedin.com/in/harsha-pemmasani
 
 Thanks for stopping by! 😊
