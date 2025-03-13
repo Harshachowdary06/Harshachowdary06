@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Harshachowdary06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm [Your Name] 👋
 
-<!---
-Harshachowdary06/Harshachowdary06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **Junior .NET Developer** with a passion for software development and cloud technologies. I have a solid foundation in **.NET Core**, **Azure**, and **AWS**, and I'm continuously improving my skills through hands-on projects and ongoing learning. I hold a **Master's in Computer Science** from the University of New Haven and a **B-Tech in Computer Science**.
+
+## 🚀 Skills & Technologies
+
+- **Languages**: C#, JavaScript, SQL, HTML, CSS, PHP
+- **Frameworks**: .NET Core, ASP.NET, RESTful APIs
+- **Cloud Platforms**: Microsoft Azure, AWS, Google Cloud Platform
+- **Databases**: SQL Server, MySQL, Azure SQL, Amazon RDS, Google Cloud SQL
+- **Tools**: Git, Visual Studio, Visual Studio Code, Docker, Azure DevOps
+- **Development Practices**: Agile, CI/CD, TDD (Test-Driven Development)
+- **Other**: Microservices, Web Development, Mobile Application Development
+
+## 🎓 Education
+
+- **Master’s in Computer Science** | University of New Haven
+  - Relevant Coursework: Object-Oriented Programming, Cloud Computing, Software Engineering, Database Management
+- **B-Tech in Computer Science** | [Your College Name]
+  - Relevant Coursework: Data Structures, Algorithms, Web Development (PHP, HTML, CSS), Operating Systems, Java Programming
+
+## 💡 Currently Learning
+
+- Expanding my knowledge in **microservices architecture** and **DevOps** practices.
+- Exploring **serverless computing** with **Azure Functions** and **AWS Lambda**.
+
+## 🌱 Projects
+
+- Check out some of my projects in this repository! Feel free to explore my **.NET Core** applications, **RESTful APIs**, and cloud-based solutions.
+
+## 📫 How to Reach Me
+
+- Email: [YourEmail@example.com]
+- LinkedIn: [YourLinkedInProfile]
+- Twitter: [YourTwitterHandle]
+
+Thanks for stopping by! 😊
